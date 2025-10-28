@@ -2,6 +2,8 @@
 
 This is a starter template for VitePress.
 
+Laura made a change
+
 ## VitePress Config
 
 VitePress uses a powerful theme configuration system that allows you to customize your site's appearance and behavior. The theme config is defined in the `.vitepress/config.js` file:

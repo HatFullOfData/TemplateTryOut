@@ -4,6 +4,8 @@
 
 ![Dax Patterns](<images/Dax Patterns.png>)
 
+<img src='images/Dax Patterns.png' width='100' >
+
 ## Tips and warnings
 
 ::: tip

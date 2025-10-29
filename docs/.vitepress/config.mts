@@ -9,14 +9,14 @@ export default defineConfig({
   lang:'en-GB',
   themeConfig: {
     //https://vitepress.dev/reference/default-theme-config
-    logo:'/docs/images/powerbi.svg',
+    logo:'/images/powerbi.svg',
     nav: [
       { text: "Home", link: "/" },
       // Below is an example of a dropdown menu - make sure to uncomment and add folders in the /docs folder for these links to make it work.
        {
          text: "Labs",
          items: [
-           { text: "Lab 01", link: "/test.html" },
+           { text: "Lab 01", link: "/test" },
            { text: "Lab 02", link: "/lab-02/" },
       //     { text: "Lab 03", link: "/lab-03/" },
       //     { text: "Lab 04", link: "/lab-04/" },

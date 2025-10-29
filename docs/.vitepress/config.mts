@@ -9,7 +9,7 @@ export default defineConfig({
   lang:'en-GB',
   themeConfig: {
     //https://vitepress.dev/reference/default-theme-config
-    logo:'/images/powerbi.svg',
+    logo:'./images/powerbi.svg',
     nav: [
       { text: "Home", link: "/" },
       // Below is an example of a dropdown menu - make sure to uncomment and add folders in the /docs folder for these links to make it work.

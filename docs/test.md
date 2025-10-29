@@ -2,6 +2,8 @@
 
 ![Power BI logo](images/powerbi.svg)
 
+![Dax Patterns](<images/Dax Patterns.png>)
+
 ## Tips and warnings
 
 ::: tip

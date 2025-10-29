@@ -6,8 +6,10 @@ export default defineConfig({
   title: "LGB Tries Vitepress",
   base: "/TemplateTryOut/",
   description: "VitePress Starter Template",
+  lang:'en-GB',
   themeConfig: {
     //https://vitepress.dev/reference/default-theme-config
+    logo:'/docs/images/powerbi.svg',
     nav: [
       { text: "Home", link: "/" },
       // Below is an example of a dropdown menu - make sure to uncomment and add folders in the /docs folder for these links to make it work.
